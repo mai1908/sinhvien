@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="sinhvien/.mvn/wrapper"/>
+	<classpathentry kind="src" path="sinhvien/src/main/java"/>
+	<classpathentry kind="src" path="sinhvien/src/test/java"/>
+	<classpathentry kind="lib" path="sinhvien/target/webcustomer-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="sinhvien/target/classes"/>
+</classpath>
